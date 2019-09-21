@@ -1,2 +1,4 @@
 # magicnotebook
-This is a notebook that can update itself (a.k.a I do git push every time!)
+Fill in the fields to see the markdown badge snippet.
+
+
